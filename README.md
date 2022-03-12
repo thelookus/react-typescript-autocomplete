@@ -11,7 +11,7 @@ The dummy data used is a list of The Beatles albums, with a simple structure (id
 
 ## Running
 
-Just run `npm start` and if don't see it yet, go to the `http://localhost:3000/` url in your favorite browser ;)
+Just got to the `app` folder and run `npm start`, if don't see it yet, go to the `http://localhost:3000/` url in your favorite browser ;)
 
 ## Final words
 
